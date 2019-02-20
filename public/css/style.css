@@ -1,0 +1,13 @@
+.modIMG {
+    height: 100%;
+    width: 100%;
+}
+
+.container-fluid {
+    padding-left:165px;
+}
+
+.form-control {
+    width: 88%;
+    padding-left: 165px;
+}
